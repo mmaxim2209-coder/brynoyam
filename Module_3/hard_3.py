@@ -16,7 +16,6 @@ class AppConfig:
     def update_setting(self, key, value):
         self.settings[key] = value
 
-
 config1 = AppConfig()
 config2 = AppConfig()
 
